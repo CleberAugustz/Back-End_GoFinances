@@ -1,0 +1,4 @@
+
+// declarar isto dentro do gitignore
+tmp/*
+!tmp/.gitkeep
